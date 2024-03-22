@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Typescript**
 
-- 💬 Ask me about **C, Java, HTML, CSS, Javascript**
+- 💬 Ask me about **C, Java, HTML, CSS, Javascript, Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
