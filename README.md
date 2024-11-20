@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Álvaro</h1>
-<h3 align="center">I am eveloper!</h3>
+<h3 align="center">I am developer!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alvarojpr&label=Visitantes&color=000000&style=plastic" alt="alvarojpr" /> </p>
 
