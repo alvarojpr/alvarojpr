@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alvarojpr&label=Visitantes&color=000000&style=plastic" alt="alvarojpr" /> </p>
 
 
-- 🌱 I’m currently learning **Django, FastAPI**
+- 🌱 I’m currently learning **Django, FastAPI, Excel and Data Analysis**
 
 - 💬 Ask me about **C, Java, HTML, CSS, Javascript, Python**
 
